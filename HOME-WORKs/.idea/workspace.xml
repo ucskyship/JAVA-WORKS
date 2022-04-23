@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b2248b-cf78-4113-8d53-af7d74ae6d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CLASS_WORK/ClassExercises/src/SmallApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASS_WORK/cLASS/src/SmallApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/ComparingIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/Diameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/DivisibleByThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/IntegerEquivalent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/SameLineDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHAPT. 2/SmallestLargest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27lPI2IMztB6NFf3CKcHYYGFTqQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "/home/ucskyship/Documents/SEMICOLON/JAVA-WORKS/CLASS_WORK/ClassExercises",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AreaOfTriangleCalculator">
+    <configuration name="AreaOfTriangleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfTriangleCalculator" />
+      <module name=";" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundValueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundValueCalculator" />
+      <module name=";" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CostOfDriveCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CostOfDriveCalculator" />
+      <module name=";" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureInvestmentCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FutureInvestmentCalculator" />
+      <module name=";" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterestCalculator" />
+      <module name=";" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AreaOfTriangleCalculator" />
+      <item itemvalue="Application.CompoundValueCalculator" />
+      <item itemvalue="Application.CostOfDriveCalculator" />
+      <item itemvalue="Application.FutureInvestmentCalculator" />
+      <item itemvalue="Application.InterestCalculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaOfTriangleCalculator" />
+        <item itemvalue="Application.CostOfDriveCalculator" />
+        <item itemvalue="Application.CompoundValueCalculator" />
+        <item itemvalue="Application.FutureInvestmentCalculator" />
+        <item itemvalue="Application.InterestCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b2248b-cf78-4113-8d53-af7d74ae6d63" name="Changes" comment="" />
+      <created>1649891622597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649891622597</updated>
+      <workItem from="1649891626685" duration="233000" />
+      <workItem from="1649925864913" duration="742000" />
+      <workItem from="1649942243680" duration="392000" />
+      <workItem from="1649972600466" duration="336000" />
+      <workItem from="1649973016002" duration="656000" />
+      <workItem from="1650066488346" duration="7227000" />
+      <workItem from="1650080900131" duration="24929000" />
+      <workItem from="1650278067073" duration="10716000" />
+      <workItem from="1650289194715" duration="3584000" />
+      <workItem from="1650314277948" duration="8000" />
+      <workItem from="1650314386955" duration="843000" />
+      <workItem from="1650324491721" duration="599000" />
+      <workItem from="1650403069369" duration="74000" />
+      <workItem from="1650568612524" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
