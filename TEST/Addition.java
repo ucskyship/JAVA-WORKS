@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class Addition {
 
 	public static void main(String... args){
-		Scanner ucj = new Scanner(System.in);
+		Scanner calculate = new Scanner(System.in);
 		
 		System.out.print("Enter firstNumber: ");
-		int firstNumber = ucj.nextInt();
+		int firstNumber = calculate.nextInt();
 		
 		System.out.print("Enter secondNumber: ");
-		int secondNumber = ucj.nextInt();
+		int secondNumber = calculate.nextInt();
 		
 		int sum = firstNumber + secondNumber;
 		
